@@ -1,8 +1,7 @@
-# html-fund-me-f23
+# HTML Fund Me
 
-*[⭐️ (2:37:02) | Lesson 8: HTML Fund Me](https://www.youtube.com/watch?v=sas02qSFZ74&t=9422s)*
-
-This is a minimalistic example what you can find in the [metamask docs](https://docs.metamask.io/guide/create-dapp.html#basic-action-part-1).
+This is a section of the Cyfrin Solidity Course. Specifically Course 3 Section 3 Fund Me Frontend. Purpose of this section was to learn the basics of how MetaMask wallet interacts with HTML/JS App
+This is a minimalistic example of what you can find in the [metamask docs](https://docs.metamask.io/guide/create-dapp.html#basic-action-part-1).
 
 - [html-fund-me-f23](#html-fund-me-f23)
 - [Requirements](#requirements)
